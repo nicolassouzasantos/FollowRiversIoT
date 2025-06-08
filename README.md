@@ -6,3 +6,5 @@ inicialmente foi pensado em um sensor de distância ultrasonico porém observamo
 Utilizamos também o web server do wokwi para simular o envio das informações via método http, porém para testar é necessário a versão paga do wokwi.
 
 Link para o wokwi: https://wokwi.com/projects/433177526954166273
+
+Link para o vídeo: https://youtu.be/WJgDr0ejSWA?si=Fkr8LCuCqVloRuSh
